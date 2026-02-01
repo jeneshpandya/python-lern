@@ -1,2 +1,2 @@
-# python-lern
+# python-learn
 Learing Python
